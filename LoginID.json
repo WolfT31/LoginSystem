@@ -20,6 +20,13 @@
       "password": "123",
       "expire": "2025-8-8",
       "allowoffline": true
+    },
+    {
+      "id": "/enter 262727373",
+      "username": "wolftz",
+      "password": "6262",
+      "expire": "2025-9-9",
+      "allowoffline": true
     }
   ]
 }
