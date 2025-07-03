@@ -69,6 +69,13 @@
       "password": "Szp8",
       "expire": "2025-10-10",
       "allowoffline": false
+    },
+    {
+      "id": "2233445566",
+      "username": "user_2233445566",
+      "password": "pass_2233445566",
+      "expire": "2025-10-10",
+      "allowoffline": false
     }
   ]
 }
