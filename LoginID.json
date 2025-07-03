@@ -1,3 +1,11 @@
 {
-    "users": []
+  "users": [
+    {
+      "id": "/enter 6362636368383",
+      "username": "wolftz",
+      "password": "123",
+      "expire": "2025-8-8",
+      "allowoffline": true
+    }
+  ]
 }
