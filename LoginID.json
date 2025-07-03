@@ -48,6 +48,13 @@
       "password": "26263",
       "expire": "2025-4-8",
       "allowoffline": true
+    },
+    {
+      "id": "4455324777665",
+      "username": "user_4455324777665",
+      "password": "pass_4455324777665",
+      "expire": "2025-10-10",
+      "allowoffline": false
     }
   ]
 }
