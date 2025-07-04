@@ -1,109 +1,16 @@
-{
-  "users": [
-    {
-      "id": "/enter 6362636368383",
-      "username": "wolftz",
-      "password": "123",
-      "expire": "2025-8-8",
-      "allowoffline": true
-    },
-    {
-      "id": "/enter 5353535377",
-      "username": "wolftz",
-      "password": "12345",
-      "expire": "2025-8-8",
-      "allowoffline": true
-    },
-    {
-      "id": "/enter 636372828",
-      "username": "123",
-      "password": "123",
-      "expire": "2025-8-8",
-      "allowoffline": true
-    },
-    {
-      "id": "/enter 262727373",
-      "username": "wolftz",
-      "password": "6262",
-      "expire": "2025-9-9",
-      "allowoffline": true
-    },
-    {
-      "id": "1234567890",
-      "username": "123",
-      "password": "123",
-      "expire": "2025-9-8",
-      "allowoffline": true
-    },
-    {
-      "id": "1426363737373",
-      "username": "5252",
-      "password": "26262",
-      "expire": "2025-7-16",
-      "allowoffline": false
-    },
-    {
-      "id": "63636353533",
-      "username": "36262",
-      "password": "26263",
-      "expire": "2025-4-8",
-      "allowoffline": true
-    },
-    {
-      "id": "4455324777665",
-      "username": "user_4455324777665",
-      "password": "pass_4455324777665",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "636363838282",
-      "username": "user_636363838282",
-      "password": "pass_636363838282",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "24577543356654",
-      "username": "wolf_7xi",
-      "password": "Szp8",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "2233445566",
-      "username": "user_2233445566",
-      "password": "pass_2233445566",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "383a11286358180d5ab09c45e81c6bfd27651262930a3615d97b5a28f1b8232e",
-      "username": "user_383a11286358180d5ab09c45e81c6bfd27651262930a3615d97b5a28f1b8232e",
-      "password": "pass_383a11286358180d5ab09c45e81c6bfd27651262930a3615d97b5a28f1b8232e",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "23466544543454",
-      "username": "user_23466544543454",
-      "password": "pass_23466544543454",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "933921f5bc682771",
-      "username": "123",
-      "password": "123",
-      "expire": "2025-8-1",
-      "allowoffline": true
-    },
-    {
-      "id": "112233445566",
-      "username": "wolf_sbh",
-      "password": "G]6[",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    }
-  ]
-}
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
