@@ -97,6 +97,13 @@
       "password": "123",
       "expire": "2025-8-1",
       "allowoffline": true
+    },
+    {
+      "id": "112233445566",
+      "username": "wolf_sbh",
+      "password": "G]6[",
+      "expire": "2025-10-10",
+      "allowoffline": false
     }
   ]
 }
