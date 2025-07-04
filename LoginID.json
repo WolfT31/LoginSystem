@@ -1,11 +1,18 @@
 {
   "users": [
     {
-      "id": "664333567776",
-      "username": "user_664333567776",
-      "password": "pass_664333567776",
-      "expire": "2025-10-10",
-      "allowoffline": false
+      "id": "6362636368383",
+      "username": "wolftz",
+      "password": "123",
+      "expire": "2025-8-8",
+      "allowoffline": true
+    },
+    {
+      "id": "5353535377",
+      "username": "wolftz",
+      "password": "12345",
+      "expire": "2025-8-8",
+      "allowoffline": true
     }
   ]
 }
