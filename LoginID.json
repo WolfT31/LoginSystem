@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "id": "7373736363363",
-      "username": "user_7373736363363",
-      "password": "pass_7373736363363",
+      "id": "",
+      "username": "wolftz",
+      "password": "wolftz",
       "expire": "2025-10-10",
       "allowoffline": false
     }
