@@ -1,39 +1,16 @@
-{
-  "users": [
-    {
-      "id": "6362636368383",
-      "username": "wolftz",
-      "password": "123",
-      "expire": "2025-8-8",
-      "allowoffline": true
-    },
-    {
-      "id": "5353535377",
-      "username": "wolftz",
-      "password": "12345",
-      "expire": "2025-8-8",
-      "allowoffline": true
-    },
-    {
-      "id": "636363",
-      "username": "user_636363",
-      "password": "pass_636363",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "626262626",
-      "username": "user_626262626",
-      "password": "pass_626262626",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "3455",
-      "username": "wolf_y5c",
-      "password": "wq0*",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    }
-  ]
-}
+[
+  {
+    "id": "933921f5bc687",
+    "username": "wolftz",
+    "password": "12345",
+    "expiresAt": "2025-08-08",
+    "allowOffline": true
+  },
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  }
+]
