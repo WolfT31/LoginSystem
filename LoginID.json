@@ -14,10 +14,10 @@
     "allowOffline": false
   },
   {
-    "id": "1029384756",
-    "username": "user_1029384756",
-    "password": "pass_1029384756",
-    "expiresAt": "2025-10-10",
-    "allowOffline": false
+    "id": "933921f5bc682771",
+    "username": "developer",
+    "password": "123",
+    "expiresAt": "2025-8-8",
+    "allowOffline": true
   }
 ]
