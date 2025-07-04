@@ -1,16 +1,9 @@
 {
   "users": [
     {
-      "id": "7888875444",
-      "username": "user_7888875444",
-      "password": "pass_7888875444",
-      "expire": "2025-10-10",
-      "allowoffline": false
-    },
-    {
-      "id": "7888875444",
-      "username": "user_7888875444",
-      "password": "pass_7888875444",
+      "id": "664333567776",
+      "username": "user_664333567776",
+      "password": "pass_664333567776",
       "expire": "2025-10-10",
       "allowoffline": false
     }
