@@ -12,5 +12,12 @@
     "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "1029384756",
+    "username": "user_1029384756",
+    "password": "pass_1029384756",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]
