@@ -6,6 +6,13 @@
       "password": "pass_7888875444",
       "expire": "2025-10-10",
       "allowoffline": false
+    },
+    {
+      "id": "7888875444",
+      "username": "user_7888875444",
+      "password": "pass_7888875444",
+      "expire": "2025-10-10",
+      "allowoffline": false
     }
   ]
 }
