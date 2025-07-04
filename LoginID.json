@@ -20,6 +20,13 @@
       "password": "pass_636363",
       "expire": "2025-10-10",
       "allowoffline": false
+    },
+    {
+      "id": "626262626",
+      "username": "user_626262626",
+      "password": "pass_626262626",
+      "expire": "2025-10-10",
+      "allowoffline": false
     }
   ]
 }
