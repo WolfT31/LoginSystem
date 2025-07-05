@@ -1,16 +1,11 @@
-[
-  {
-    "id": "52526272772",
-    "username": "user_52526272772",
-    "password": "pass_52526272772",
-    "expire": "2025-10-10",
-    "allowoffline": false
-  },
-  {
-    "id": "72725363828276",
-    "username": "user_72725363828276",
-    "password": "pass_72725363828276",
-    "expiresAt": "2025-10-10",
-    "allowOffline": false
-  }
-]
+{
+  "users": [
+    {
+      "id": "112233445566",
+      "username": "wolf_eok",
+      "password": "1O,]",
+      "expire": "2025-10-10",
+      "allowoffline": false
+    }
+  ]
+}
