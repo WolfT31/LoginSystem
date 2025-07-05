@@ -26,5 +26,12 @@
     "password": "1235",
     "expiresAt": "2025-7-7",
     "allowOffline": false
+  },
+  {
+    "id": "56272625272828262",
+    "username": "Username",
+    "password": "pass123",
+    "expiresAt": "2025-7-30",
+    "allowOffline": false
   }
 ]
