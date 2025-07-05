@@ -15,9 +15,9 @@
   },
   {
     "id": "26ce9930bc00ae96",
-    "username": "imma",
-    "password": "1235",
-    "expiresAt": "2025-7-7",
+    "username": "user_26ce9930bc00ae96",
+    "password": "pass_26ce9930bc00ae96",
+    "expiresAt": "2025-10-10",
     "allowOffline": false
   }
 ]
