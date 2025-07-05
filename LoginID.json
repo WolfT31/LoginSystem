@@ -1,23 +1,11 @@
-[
-  {
-    "id": "933921f5bc687",
-    "username": "wolftz",
-    "password": "12345",
-    "expiresAt": "2025-08-08",
-    "allowOffline": true
-  },
-  {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "933921f5bc682771",
-    "username": "developer",
-    "password": "123",
-    "expiresAt": "2025-8-8",
-    "allowOffline": true
-  }
-]
+{
+  "users": [
+    {
+      "id": "383a11286358180d5ab09c45e81c6bfd27651262930a3615d97b5a28f1b8232e",
+      "username": "user_383a11286358180d5ab09c45e81c6bfd27651262930a3615d97b5a28f1b8232e",
+      "password": "pass_383a11286358180d5ab09c45e81c6bfd27651262930a3615d97b5a28f1b8232e",
+      "expire": "2025-10-10",
+      "allowoffline": false
+    }
+  ]
+}
