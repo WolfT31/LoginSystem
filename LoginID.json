@@ -40,5 +40,12 @@
     "password": "wolftz",
     "expiresAt": "2025-8-9",
     "allowOffline": false
+  },
+  {
+    "id": "62626252525",
+    "username": "tetw",
+    "password": "yeyw",
+    "expiresAt": "2025-8-9",
+    "allowOffline": true
   }
 ]
