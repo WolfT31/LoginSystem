@@ -33,5 +33,12 @@
     "password": "1234",
     "expiresAt": "2025-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "22222222222222",
+    "username": "wolftz",
+    "password": "wolftz",
+    "expiresAt": "2025-9-9",
+    "allowOffline": true
   }
 ]
