@@ -54,5 +54,12 @@
     "password": "wolftz",
     "expiresAt": "2025-10-7",
     "allowOffline": false
+  },
+  {
+    "id": "yeyeyeyeyeue",
+    "username": "yrye",
+    "password": "yrye",
+    "expiresAt": "2025-8-8",
+    "allowOffline": false
   }
 ]
