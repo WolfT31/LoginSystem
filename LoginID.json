@@ -103,5 +103,12 @@
     "password": "wolftz",
     "expiresAt": "2025-10-10",
     "allowOffline": false
+  },
+  {
+    "id": "72726353626",
+    "username": "anatoly",
+    "password": "1234",
+    "expiresAt": "2025-8-6",
+    "allowOffline": false
   }
 ]
