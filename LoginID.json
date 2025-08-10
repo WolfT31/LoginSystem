@@ -131,5 +131,12 @@
     "password": "moon",
     "expiresAt": "2025-10-10",
     "allowOffline": false
+  },
+  {
+    "id": "",
+    "username": "wolftz",
+    "password": "wolftz",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
