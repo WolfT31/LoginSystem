@@ -138,5 +138,12 @@
     "password": "wolftz",
     "expiresAt": "2025-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "5e1f70add6ff3bde",
+    "username": "yuzzo",
+    "password": "yuzzo",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
