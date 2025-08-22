@@ -159,5 +159,12 @@
     "password": "chiduoJr",
     "expiresAt": "2025-12-9",
     "allowOffline": false
+  },
+  {
+    "id": "f0342e09981606d8",
+    "username": "machinist",
+    "password": "machinist",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]
