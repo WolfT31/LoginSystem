@@ -152,5 +152,12 @@
     "password": "1234",
     "expiresAt": "2025-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "223e970c1553d3b1",
+    "username": "chiduoJr",
+    "password": "chiduoJr",
+    "expiresAt": "2025-12-9",
+    "allowOffline": false
   }
 ]
