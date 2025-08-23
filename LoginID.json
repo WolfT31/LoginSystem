@@ -173,5 +173,12 @@
     "password": "jkt",
     "expiresAt": "2025-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "jwtz",
+    "username": "jwtz",
+    "password": "hshshshsh",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]
