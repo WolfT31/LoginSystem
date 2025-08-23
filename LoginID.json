@@ -166,5 +166,12 @@
     "password": "machinist",
     "expiresAt": "2025-10-10",
     "allowOffline": false
+  },
+  {
+    "id": "wrttetyyee362",
+    "username": "jkt",
+    "password": "jkt",
+    "expiresAt": "2025-9-9",
+    "allowOffline": false
   }
 ]
