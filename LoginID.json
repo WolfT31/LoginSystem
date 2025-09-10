@@ -187,5 +187,12 @@
     "password": "MungeJr",
     "expiresAt": "2026-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "6bab671c53ae59c1",
+    "username": "Cyberkid",
+    "password": "Cyberkid",
+    "expiresAt": "2026-8-8",
+    "allowOffline": false
   }
 ]
