@@ -222,5 +222,12 @@
     "password": "AreaTanzania",
     "expiresAt": "2026-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "10fb976229dafc9d",
+    "username": "Theblackdiamond78",
+    "password": "Theblackdiamond78",
+    "expiresAt": "2028-8-8",
+    "allowOffline": false
   }
 ]
