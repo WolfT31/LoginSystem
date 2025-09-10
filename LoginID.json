@@ -194,5 +194,12 @@
     "password": "Cyberkid",
     "expiresAt": "2026-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "019947cbc0a977f6",
+    "username": "Salhat",
+    "password": "Salhat",
+    "expiresAt": "2026-8-8",
+    "allowOffline": false
   }
 ]
