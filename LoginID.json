@@ -208,5 +208,12 @@
     "password": "Atasa",
     "expiresAt": "2026-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "9becb552251bda52",
+    "username": "GOAT",
+    "password": "GOAT",
+    "expiresAt": "2026-8-8",
+    "allowOffline": false
   }
 ]
