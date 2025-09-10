@@ -180,12 +180,5 @@
     "password": "hshshshsh",
     "expiresAt": "2025-10-10",
     "allowOffline": false
-  },
-  {
-    "id": "634a5714a4057b95",
-    "username": "Munge_Jr",
-    "password": "Munge",
-    "expiresAt": "2026-8-8",
-    "allowOffline": false
   }
 ]
