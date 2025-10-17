@@ -229,5 +229,12 @@
     "password": "Theblackdiamond78",
     "expiresAt": "2028-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "",
+    "username": "",
+    "password": "",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]
