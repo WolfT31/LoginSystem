@@ -1,30 +1,9 @@
 [
   {
-    "id": "933921f5bc687",
-    "username": "wolftz",
-    "password": "12345",
-    "expiresAt": "2025-08-08",
-    "allowOffline": true
-  },
-  {
     "id": "6d95fal7c7e40bea",
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "636282826252",
-    "username": "wolftz",
-    "password": "1234",
-    "expiresAt": "2025-8-8",
-    "allowOffline": false
-  },
-  {
-    "id": "twywywwywtwtw536",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-8-9",
     "allowOffline": false
   },
   {
@@ -35,30 +14,9 @@
     "allowOffline": true
   },
   {
-    "id": "63622525252",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-8-8",
-    "allowOffline": false
-  },
-  {
-    "id": "1111111111111",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-10-7",
-    "allowOffline": false
-  },
-  {
     "id": "yeyeyeyeyeue",
     "username": "yrye",
     "password": "yrye",
-    "expiresAt": "2025-8-8",
-    "allowOffline": false
-  },
-  {
-    "id": "3344556677",
-    "username": "wolftz",
-    "password": "wolftz",
     "expiresAt": "2025-8-8",
     "allowOffline": false
   },
@@ -84,13 +42,6 @@
     "allowOffline": false
   },
   {
-    "id": "66556666",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-10-10",
-    "allowOffline": false
-  },
-  {
     "id": "ttyhggg86",
     "username": "wolf_upa",
     "password": "Z`+a",
@@ -105,27 +56,6 @@
     "allowOffline": false
   },
   {
-    "id": "f5e16622d31add4c",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "933921f5bc682771",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "c",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
     "id": "196f1d88d9382b78",
     "username": "moon",
     "password": "moon",
@@ -133,24 +63,10 @@
     "allowOffline": false
   },
   {
-    "id": "",
-    "username": "wolftz",
-    "password": "wolftz",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
     "id": "5e1f70add6ff3bde",
     "username": "yuzzo",
     "password": "yuzzo",
     "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "764937e07028fa4f",
-    "username": "wolftz",
-    "password": "1234",
-    "expiresAt": "2025-9-9",
     "allowOffline": false
   },
   {
