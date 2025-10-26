@@ -152,5 +152,12 @@
     "password": "zzzz",
     "expiresAt": "2025-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "773734648388",
+    "username": "etet",
+    "password": "1234",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
