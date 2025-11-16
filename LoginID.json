@@ -89,5 +89,12 @@
     "password": "SecondBorn",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "559ac22341b0a1e9",
+    "username": "ujugu",
+    "password": "ujugu",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
