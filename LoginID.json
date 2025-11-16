@@ -47,5 +47,12 @@
     "password": "champ",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "6e3cd18aecea4de9",
+    "username": "traveller",
+    "password": "traveller",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
