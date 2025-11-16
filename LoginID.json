@@ -68,5 +68,12 @@
     "password": "wolf",
     "expiresAt": "2025-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "e8d1b9d71ec4e694",
+    "username": "shirazi",
+    "password": "shirazi",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
