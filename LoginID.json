@@ -96,5 +96,12 @@
     "password": "ujugu",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "255f678ed9a30f9d",
+    "username": "dlife",
+    "password": "dlife",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
