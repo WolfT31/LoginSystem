@@ -33,5 +33,12 @@
     "password": "wolftz",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "3d82eea43ec77ab9",
+    "username": "Champ",
+    "password": "wolftz",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
