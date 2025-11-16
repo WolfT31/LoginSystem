@@ -124,5 +124,12 @@
     "password": "kimu",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "9d6f00f6b42faf8c",
+    "username": "jonas",
+    "password": "jonas",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
