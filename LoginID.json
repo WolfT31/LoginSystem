@@ -103,5 +103,12 @@
     "password": "dlife",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "e03c331e9ceba6eb",
+    "username": "aura",
+    "password": "aura",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
