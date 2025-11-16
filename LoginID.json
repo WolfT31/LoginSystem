@@ -26,5 +26,12 @@
     "password": "nducha",
     "expiresAt": "2025-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "3d82eea43ec77ab9",
+    "username": "OG CHAMP",
+    "password": "wolftz",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
