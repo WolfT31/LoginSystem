@@ -110,5 +110,12 @@
     "password": "aura",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "bd4418759c433816",
+    "username": "smartboe",
+    "password": "smartboe",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
