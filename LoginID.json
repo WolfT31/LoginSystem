@@ -61,5 +61,12 @@
     "password": "code",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "c0d3090eba46e9ac",
+    "username": "wolf",
+    "password": "wolf",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
