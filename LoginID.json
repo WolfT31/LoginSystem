@@ -117,5 +117,12 @@
     "password": "smartboe",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "7257b271af07bd71",
+    "username": "kimu",
+    "password": "kimu",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
