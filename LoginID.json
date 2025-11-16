@@ -54,5 +54,12 @@
     "password": "traveller",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "cb78a63ff91f56d4",
+    "username": "code",
+    "password": "code",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
