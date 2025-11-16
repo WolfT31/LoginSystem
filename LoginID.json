@@ -75,5 +75,12 @@
     "password": "shirazi",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "406236e27c6b86dc",
+    "username": "arabic",
+    "password": "arabic",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
