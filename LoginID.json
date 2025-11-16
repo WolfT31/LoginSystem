@@ -82,5 +82,12 @@
     "password": "arabic",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "7111345af44ec6b1",
+    "username": "SecondBorn",
+    "password": "SecondBorn",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
