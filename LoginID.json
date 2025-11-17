@@ -124,5 +124,12 @@
     "password": "Bigwiz",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "68f455ad550a2caa",
+    "username": "fighter",
+    "password": "fighter",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
