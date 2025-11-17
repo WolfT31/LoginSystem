@@ -131,5 +131,12 @@
     "password": "jonas",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "6996dbe663cc9812",
+    "username": "big_wiz",
+    "password": "big_wiz",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
