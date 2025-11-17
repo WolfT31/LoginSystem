@@ -145,5 +145,12 @@
     "password": "alexander",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "35417da38b50f882",
+    "username": "Hyrosh",
+    "password": "Hyrosh",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
