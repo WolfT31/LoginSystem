@@ -138,5 +138,12 @@
     "password": "big_wiz",
     "expiresAt": "2030-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "634a5714a4057b95",
+    "username": "MungeJr",
+    "password": "MungeJr",
+    "expiresAt": "2030-12-12",
+    "allowOffline": false
   }
 ]
