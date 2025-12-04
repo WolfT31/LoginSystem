@@ -19,5 +19,12 @@
     "password": "wilson",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "05dde1900a6961d0",
+    "username": "Mr",
+    "password": "aviator255",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
