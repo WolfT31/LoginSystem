@@ -26,5 +26,12 @@
     "password": "aviator255",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "6996dbe663cc9812",
+    "username": "wiz",
+    "password": "wiz",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
