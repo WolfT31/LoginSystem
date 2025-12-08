@@ -33,5 +33,12 @@
     "password": "wiz",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "ac61f228d1c23d3d",
+    "username": "uncle",
+    "password": "max",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
