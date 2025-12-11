@@ -40,5 +40,12 @@
     "password": "max",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "2e96d3e90e2e63f0",
+    "username": "lucif",
+    "password": "lucif",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
