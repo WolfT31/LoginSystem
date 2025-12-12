@@ -54,5 +54,12 @@
     "password": "chuwa",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "3c63cc75b4c863f9",
+    "username": "othman",
+    "password": "othman",
+    "expiresAt": "2026-4-4",
+    "allowOffline": false
   }
 ]
