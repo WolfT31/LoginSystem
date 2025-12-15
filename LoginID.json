@@ -61,5 +61,12 @@
     "password": "othman",
     "expiresAt": "2026-4-4",
     "allowOffline": false
+  },
+  {
+    "id": "49006f6260ad7edf",
+    "username": "moqadim",
+    "password": "moqadim",
+    "expiresAt": "2026-1-1",
+    "allowOffline": false
   }
 ]
