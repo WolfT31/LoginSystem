@@ -68,5 +68,12 @@
     "password": "moqadim",
     "expiresAt": "2026-1-1",
     "allowOffline": false
+  },
+  {
+    "id": "1a98888e8197ed2d",
+    "username": "glavin",
+    "password": "glavin",
+    "expiresAt": "2025-5-5",
+    "allowOffline": false
   }
 ]
