@@ -75,5 +75,12 @@
     "password": "glavin",
     "expiresAt": "2026-6-6",
     "allowOffline": false
+  },
+  {
+    "id": "61ec59b57b140060",
+    "username": "vince",
+    "password": "vince",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
