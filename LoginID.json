@@ -82,5 +82,12 @@
     "password": "vince",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "7373637383",
+    "username": "mfano",
+    "password": "mfano",
+    "expiresAt": "2026-8-8",
+    "allowOffline": false
   }
 ]
