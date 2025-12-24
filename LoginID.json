@@ -89,5 +89,12 @@
     "password": "mfano",
     "expiresAt": "2026-8-8",
     "allowOffline": false
+  },
+  {
+    "id": "dcd47619dac752da",
+    "username": "iron",
+    "password": "iron",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
