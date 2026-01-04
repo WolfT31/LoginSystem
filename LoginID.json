@@ -117,5 +117,12 @@
     "password": "hamim",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "1db52e29eeab9006",
+    "username": "hazard",
+    "password": "hazard",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
