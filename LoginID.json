@@ -138,5 +138,12 @@
     "password": "carter",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "1b84db05caa131ba",
+    "username": "black",
+    "password": "black",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
