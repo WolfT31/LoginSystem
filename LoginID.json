@@ -145,5 +145,12 @@
     "password": "black",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "e06a6aeeece1edae",
+    "username": "skylight255",
+    "password": "skylight255",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
