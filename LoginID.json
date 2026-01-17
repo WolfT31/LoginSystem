@@ -152,5 +152,12 @@
     "password": "skylight255",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "3b513c68363f2dff",
+    "username": "pocket255",
+    "password": "pocket255",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
