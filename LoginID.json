@@ -159,5 +159,12 @@
     "password": "pocket255",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "ceb0ec95400e4671",
+    "username": "mwakyusa",
+    "password": "mwakyusa",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
