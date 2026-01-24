@@ -166,5 +166,12 @@
     "password": "mwakyusa",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "324a1048061d6c57",
+    "username": "joshua",
+    "password": "joshua",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
