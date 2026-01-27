@@ -173,12 +173,5 @@
     "password": "joshua",
     "expiresAt": "2026-5-5",
     "allowOffline": false
-  },
-  {
-    "id": "7723831885",
-    "username": "Babilan",
-    "password": "Babilan",
-    "expiresAt": "2026-5-5",
-    "allowOffline": false
   }
 ]
