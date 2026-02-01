@@ -180,5 +180,12 @@
     "password": "babilan",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "8d4a4f8a60e69a77",
+    "username": "msagati",
+    "password": "msagati",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
