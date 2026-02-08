@@ -187,5 +187,12 @@
     "password": "msagati",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "e425fcb25ee7181b",
+    "username": "chris",
+    "password": "chris",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
